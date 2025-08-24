@@ -15,4 +15,3 @@ This project explains the Laravel Request Lifecycle in a beginner-friendly way.
 - Run `php artisan serve`
 - Visit `http://127.0.0.1:8000/lifecycle`
 - Check `storage/logs/laravel.log` to see request timing logs
-```
